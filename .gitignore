@@ -130,3 +130,6 @@ dmypy.json
 
 #venv
 MLproject-env/
+
+#log files
+*.log
