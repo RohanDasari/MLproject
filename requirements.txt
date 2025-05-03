@@ -3,5 +3,7 @@ numpy
 seaborn
 matplotlib
 scikit-learn
--e .
 sys
+catboost
+xgboost
+# -e .
